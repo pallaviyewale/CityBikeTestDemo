@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22165" started-at="2020-09-29T13:50:20Z" finished-at="2020-09-29T13:50:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22165" started-at="2020-09-29T13:50:20Z" finished-at="2020-09-29T13:50:42Z">
+      <class name="Tests.TestCityBikeApp">
+        <test-method status="PASS" signature="getTheListOfCitiesForCountryForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="getTheListOfCitiesForCountryForCityBike" duration-ms="17881" started-at="2020-09-29T14:50:20Z" finished-at="2020-09-29T14:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheListOfCitiesForCountryForCityBike -->
+        <test-method status="PASS" signature="verifyAllCityLocationsHaveAllFieldsForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyAllCityLocationsHaveAllFieldsForCityBike" duration-ms="1018" started-at="2020-09-29T14:50:38Z" finished-at="2020-09-29T14:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllCityLocationsHaveAllFieldsForCityBike -->
+        <test-method status="PASS" signature="verifyCityFrankfurtWithAllDetailsForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyCityFrankfurtWithAllDetailsForCityBike" duration-ms="937" started-at="2020-09-29T14:50:39Z" finished-at="2020-09-29T14:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCityFrankfurtWithAllDetailsForCityBike -->
+        <test-method status="PASS" signature="verifyCityPresentsInWorldLocationsForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyCityPresentsInWorldLocationsForCityBike" duration-ms="1033" started-at="2020-09-29T14:50:40Z" finished-at="2020-09-29T14:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCityPresentsInWorldLocationsForCityBike -->
+        <test-method status="PASS" signature="verifyCountforAllCitiesForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyCountforAllCitiesForCityBike" duration-ms="589" started-at="2020-09-29T14:50:41Z" finished-at="2020-09-29T14:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountforAllCitiesForCityBike -->
+        <test-method status="PASS" signature="verifyCountforAllComaniesForCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyCountforAllComaniesForCityBike" duration-ms="479" started-at="2020-09-29T14:50:41Z" finished-at="2020-09-29T14:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountforAllComaniesForCityBike -->
+        <test-method status="PASS" signature="verifyErrorAfterSendingWrongURLToCityBike()[pri:0, instance:Tests.TestCityBikeApp@67b92f0a]" name="verifyErrorAfterSendingWrongURLToCityBike" duration-ms="46" started-at="2020-09-29T14:50:42Z" finished-at="2020-09-29T14:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorAfterSendingWrongURLToCityBike -->
+      </class> <!-- Tests.TestCityBikeApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
